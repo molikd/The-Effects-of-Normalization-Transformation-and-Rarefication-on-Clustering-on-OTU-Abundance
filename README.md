@@ -1,4 +1,5 @@
 # The Effects of Normalization, Transformation, and Rarefication on Clustering on OTU Abundance
+[![DOI](https://zenodo.org/badge/104128918.svg)](https://zenodo.org/badge/latestdoi/104128918)
 ## Supporting Documentation and Code, Manifest
 
 * OTU-simple.txt - Simiplized OTU table used by the text
